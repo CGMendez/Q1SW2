@@ -1,0 +1,54 @@
+#container1{
+	background-color: #b56e28;
+	text-align: center;
+}
+
+.container2{
+	background-color: #e8af76;
+	width: 316px;
+	padding: 10px;
+	margin: auto;
+	box-shadow: 2px 2px 10px rgba(217, 184, 152, 0.9);
+	border-radius: 30px;
+
+}
+
+body{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR3EJxhF2v9lmrajEaDb2hXX_p45q_HOJg-Q&s');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+input{
+	border-style: solid;
+	border-width:3px ;
+	border-radius:7px ;
+	border-color:#e6cbb1;
+}
+
+select{
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 7px;
+	border-color:#e6cbb1;
+}
+
+textarea{
+	border-style:solid;
+	border-width:3px ;
+	border-radius:7px ;
+	border-color:#e6cbb1;
+}
+
+submit{
+	border-style:solid;
+	border-width:3px ;
+	border-radius:7px;
+	border-color:#e6cbb1;
+}
+
+label{
+	font-size: 15px;
+	font-family: Times New Roman;
+}
